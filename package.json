@@ -1,0 +1,28 @@
+{
+  "name": "nteract-assets",
+  "version": "1.0.0",
+  "description": "Static assets used in nteract/nteract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nteract/assets.git"
+  },
+  "keywords": [
+    "nteract",
+    "static",
+    "assets"
+  ],
+  "author": "nteract contributors",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/nteract/assets/issues"
+  },
+  "homepage": "https://github.com/nteract/assets#readme",
+  "dependencies": {
+    "source-code-pro": "git://github.com/adobe-fonts/source-code-pro.git#release",
+    "source-sans-pro": "git://github.com/adobe-fonts/source-sans-pro.git#release"
+  }
+}
