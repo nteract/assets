@@ -20,9 +20,5 @@
   "bugs": {
     "url": "https://github.com/nteract/assets/issues"
   },
-  "homepage": "https://github.com/nteract/assets#readme",
-  "dependencies": {
-    "source-code-pro": "git://github.com/adobe-fonts/source-code-pro.git#release",
-    "source-sans-pro": "git://github.com/adobe-fonts/source-sans-pro.git#release"
-  }
+  "homepage": "https://github.com/nteract/assets#readme"
 }
