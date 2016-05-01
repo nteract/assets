@@ -1,6 +1,6 @@
 {
   "name": "nteract-assets",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Static assets used in nteract/nteract",
   "main": "index.js",
   "scripts": {
